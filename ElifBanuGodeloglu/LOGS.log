@@ -1,0 +1,1102 @@
+2021-08-25 22:19:31 INFO  Reflections:169 - Reflections took 4056 ms to scan 76 urls, producing 9524 keys and 50603 values 
+2021-08-25 22:19:34 INFO  Reflections:169 - Reflections took 2398 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:19:41 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:19:42 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:20:55 INFO  Reflections:169 - Reflections took 3631 ms to scan 76 urls, producing 9524 keys and 50603 values 
+2021-08-25 22:20:57 INFO  Reflections:169 - Reflections took 2359 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:21:05 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:21:06 INFO  StepImplement:157 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:21:06 INFO  StepImplement:157 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:21:07 INFO  StepImplement:157 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:21:08 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:21:08 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:27:48 INFO  Reflections:169 - Reflections took 3613 ms to scan 76 urls, producing 9524 keys and 50603 values 
+2021-08-25 22:27:50 INFO  Reflections:169 - Reflections took 2377 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:27:57 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:27:58 INFO  StepImplement:157 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:27:59 INFO  StepImplement:157 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:28:00 INFO  StepImplement:157 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:28:00 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:28:00 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:28:02 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:28:03 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:28:03 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:46:46 INFO  Reflections:228 - Reflections took 3993 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 22:46:48 INFO  Reflections:228 - Reflections took 2399 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:46:55 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:46:56 INFO  StepImplement:166 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:46:57 INFO  StepImplement:166 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:46:58 INFO  StepImplement:166 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:46:58 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:46:58 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:47:00 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:47:01 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:47:03 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:49:22 INFO  Reflections:228 - Reflections took 3537 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 22:49:25 INFO  Reflections:228 - Reflections took 2402 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:49:33 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:49:34 INFO  StepImplement:166 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:49:34 INFO  StepImplement:166 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:49:35 INFO  StepImplement:166 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:49:35 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:49:35 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:49:38 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:49:38 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:49:38 INFO  StepImplement:73 - Atm elementi bulundu.
+2021-08-25 22:49:40 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:52:12 INFO  Reflections:169 - Reflections took 3824 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 22:52:14 INFO  Reflections:169 - Reflections took 2391 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:52:21 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:52:22 INFO  StepImplement:166 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:52:23 INFO  StepImplement:166 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:52:24 INFO  StepImplement:166 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:52:25 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:52:25 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:52:27 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:52:27 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:52:28 INFO  StepImplement:73 - Atm elementi bulundu.
+2021-08-25 22:52:28 INFO  StepImplement:148 - Atm elementine tiklandi.
+2021-08-25 22:52:28 INFO  StepImplement:73 - istanbul elementi bulundu.
+2021-08-25 22:52:29 INFO  StepImplement:148 - istanbul elementine tiklandi.
+2021-08-25 22:52:29 INFO  StepImplement:73 - kat1 elementi bulundu.
+2021-08-25 22:52:29 INFO  StepImplement:148 - kat1 elementine tiklandi.
+2021-08-25 22:52:38 INFO  StepImplement:73 - pixselect elementi bulundu.
+2021-08-25 22:52:38 INFO  StepImplement:148 - pixselect elementine tiklandi.
+2021-08-25 22:52:38 INFO  StepImplement:73 - pix8 elementi bulundu.
+2021-08-25 22:52:39 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 22:54:10 INFO  Reflections:169 - Reflections took 3581 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 22:54:12 INFO  Reflections:169 - Reflections took 2413 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:54:19 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:54:20 INFO  StepImplement:166 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:54:21 INFO  StepImplement:166 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:54:22 INFO  StepImplement:166 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:54:22 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:54:22 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:54:24 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:54:25 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:54:25 INFO  StepImplement:73 - Atm elementi bulundu.
+2021-08-25 22:54:25 INFO  StepImplement:148 - Atm elementine tiklandi.
+2021-08-25 22:54:25 INFO  StepImplement:73 - istanbul elementi bulundu.
+2021-08-25 22:54:26 INFO  StepImplement:148 - istanbul elementine tiklandi.
+2021-08-25 22:55:26 INFO  StepImplement:129 - 100 milisaniye bekleniyor.
+2021-08-25 22:56:27 INFO  StepImplement:129 - 100 milisaniye bekleniyor.
+2021-08-25 22:57:42 INFO  Reflections:228 - Reflections took 3779 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 22:57:44 INFO  Reflections:228 - Reflections took 2360 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 22:57:52 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 22:57:52 INFO  StepImplement:166 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:57:53 INFO  StepImplement:166 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:57:54 INFO  StepImplement:166 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 22:57:54 INFO  StepImplement:148 - GirisYap elementine tiklandi.
+2021-08-25 22:57:54 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-08-25 22:57:56 INFO  StepImplement:73 - CanliYayin elementi bulundu.
+2021-08-25 22:57:56 INFO  StepImplement:148 - CanliYayin elementine tiklandi.
+2021-08-25 22:57:56 INFO  StepImplement:73 - Atm elementi bulundu.
+2021-08-25 22:57:57 INFO  StepImplement:148 - Atm elementine tiklandi.
+2021-08-25 22:57:57 INFO  StepImplement:73 - istanbul elementi bulundu.
+2021-08-25 22:57:57 INFO  StepImplement:148 - istanbul elementine tiklandi.
+2021-08-25 22:57:57 INFO  StepImplement:73 - kat1 elementi bulundu.
+2021-08-25 22:57:58 INFO  StepImplement:148 - kat1 elementine tiklandi.
+2021-08-25 22:57:58 INFO  StepImplement:73 - pixselect elementi bulundu.
+2021-08-25 22:57:58 INFO  StepImplement:148 - pixselect elementine tiklandi.
+2021-08-25 22:57:58 INFO  StepImplement:73 - pix8 elementi bulundu.
+2021-08-25 22:57:58 INFO  StepImplement:148 - pix8 elementine tiklandi.
+2021-08-25 22:57:59 INFO  StepImplement:73 - analog elementi bulundu.
+2021-08-25 22:57:59 INFO  StepImplement:148 - analog elementine tiklandi.
+2021-08-25 22:59:00 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 23:00:44 INFO  Reflections:228 - Reflections took 7312 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 23:00:49 INFO  Reflections:228 - Reflections took 4923 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 23:00:58 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 23:00:59 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:00:59 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:01:00 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:01:00 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-25 23:01:00 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-25 23:01:02 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-25 23:01:03 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-25 23:01:03 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-25 23:01:04 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-25 23:01:04 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-25 23:01:04 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-25 23:01:04 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-25 23:01:05 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-25 23:01:05 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-25 23:01:05 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-25 23:01:05 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-25 23:01:06 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-25 23:01:06 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-25 23:01:06 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-25 23:02:08 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 23:04:03 INFO  Reflections:169 - Reflections took 7035 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 23:04:06 INFO  Reflections:169 - Reflections took 2932 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 23:04:15 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 23:04:16 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:16 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:17 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:21 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 23:04:40 INFO  Reflections:169 - Reflections took 3592 ms to scan 76 urls, producing 9524 keys and 50604 values 
+2021-08-25 23:04:43 INFO  Reflections:169 - Reflections took 2651 ms to scan 76 urls, producing 9450 keys and 43634 values 
+2021-08-25 23:04:50 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 23:04:50 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:50 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:51 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:04:51 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-25 23:04:51 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-25 23:04:53 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-25 23:04:54 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-25 23:04:54 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-25 23:04:54 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-25 23:04:54 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-25 23:04:54 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-25 23:04:54 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-25 23:04:55 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-25 23:04:55 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-25 23:04:55 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-25 23:04:55 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-25 23:04:55 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-25 23:04:55 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-25 23:04:56 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-25 23:04:56 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-25 23:04:56 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-25 23:05:06 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 23:15:24 INFO  Reflections:169 - Reflections took 9802 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-25 23:15:29 INFO  Reflections:169 - Reflections took 4131 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-25 23:16:04 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 23:16:05 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:06 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:06 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:09 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-25 23:16:21 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-25 23:16:21 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:22 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:22 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-25 23:16:23 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-25 23:16:23 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-25 23:16:25 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-25 23:16:25 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-25 23:16:25 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-25 23:16:25 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-25 23:16:25 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-25 23:16:26 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-25 23:16:26 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-25 23:16:26 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-25 23:16:26 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-25 23:16:27 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-25 23:16:27 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-25 23:16:27 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-25 23:16:27 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-25 23:16:28 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-25 23:16:28 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-25 23:16:28 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-25 23:16:38 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 12:47:17 INFO  Reflections:169 - Reflections took 14259 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 12:47:57 INFO  Reflections:169 - Reflections took 39923 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 12:54:38 INFO  Reflections:169 - Reflections took 10632 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 12:54:41 INFO  Reflections:169 - Reflections took 2427 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 12:54:57 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 12:54:58 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:54:58 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:54:58 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:55:01 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 12:58:28 INFO  Reflections:228 - Reflections took 3573 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 12:58:30 INFO  Reflections:228 - Reflections took 2166 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 12:58:47 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 12:58:48 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:58:48 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:58:48 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 12:58:49 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 12:58:49 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 12:58:51 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 12:58:51 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 12:58:52 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 12:58:52 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 12:58:52 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 12:58:52 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 12:58:52 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 12:58:52 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 12:58:52 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 12:58:53 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 12:58:53 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 12:58:53 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 12:58:53 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 12:58:53 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 12:58:53 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 12:58:58 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 12:58:59 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 12:58:59 INFO  StepImplement:118 - 20 saniye bekleniyor.
+2021-08-26 12:59:19 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 13:19:08 INFO  Reflections:228 - Reflections took 3865 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 13:19:11 INFO  Reflections:228 - Reflections took 2124 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 13:19:28 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 13:19:30 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:19:30 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:19:31 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:19:31 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 13:19:31 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 13:19:33 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 13:19:33 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 13:19:34 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 13:19:34 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 13:19:34 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 13:19:34 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 13:19:34 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 13:19:35 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 13:19:35 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 13:19:35 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 13:19:35 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 13:19:35 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 13:19:35 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 13:19:35 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 13:19:35 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 13:19:40 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 13:19:41 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 13:20:42 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 13:28:54 INFO  Reflections:228 - Reflections took 3501 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 13:28:56 INFO  Reflections:228 - Reflections took 2169 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 13:29:12 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 13:29:12 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:29:13 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:29:13 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 13:29:13 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 13:29:13 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 13:29:16 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 13:29:16 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 13:29:17 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 13:29:17 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 13:29:17 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 13:29:17 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 13:29:17 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 13:29:17 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 13:29:17 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 13:29:18 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 13:29:18 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 13:29:18 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 13:29:18 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 13:29:18 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 13:29:18 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 13:29:23 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 13:29:24 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 13:30:25 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 14:19:43 INFO  Reflections:228 - Reflections took 3627 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 14:19:45 INFO  Reflections:228 - Reflections took 2252 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 14:20:03 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 14:20:04 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:20:04 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:20:05 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:20:05 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 14:20:05 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 14:20:07 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 14:20:08 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 14:20:08 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 14:20:08 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 14:20:08 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 14:20:09 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 14:20:09 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 14:20:09 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 14:20:09 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 14:20:09 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 14:20:09 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 14:20:10 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 14:20:10 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 14:20:10 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 14:20:10 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 14:20:16 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 14:20:16 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 14:21:21 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 14:45:11 INFO  Reflections:169 - Reflections took 3658 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 14:45:13 INFO  Reflections:169 - Reflections took 2139 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 14:45:25 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 14:45:26 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:45:26 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:45:26 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:45:26 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 14:45:26 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 14:45:29 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 14:45:29 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 14:45:30 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 14:45:30 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 14:45:30 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 14:45:30 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 14:45:30 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 14:45:30 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 14:45:30 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 14:45:31 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 14:45:31 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 14:45:31 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 14:45:31 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 14:45:31 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 14:45:31 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 14:45:36 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 14:45:36 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 14:46:38 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 14:52:49 INFO  Reflections:228 - Reflections took 3547 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 14:52:51 INFO  Reflections:228 - Reflections took 2255 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 14:53:01 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 14:53:02 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:53:02 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:53:02 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 14:53:03 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 14:53:03 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 14:54:05 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 14:55:05 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 14:56:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 14:57:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 14:58:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 14:59:07 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:00:07 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:01:07 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:02:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:03:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:04:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:05:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:06:09 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:07:09 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:08:09 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:09:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:10:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:11:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-26 15:11:37 INFO  Reflections:169 - Reflections took 3924 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 15:11:39 INFO  Reflections:169 - Reflections took 2139 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 15:11:51 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 15:11:51 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:11:51 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:11:52 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:11:52 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 15:11:52 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 15:11:54 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 15:11:54 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 15:11:55 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 15:11:55 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 15:11:55 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 15:11:55 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 15:11:56 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 15:11:56 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 15:11:56 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 15:11:56 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 15:11:56 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 15:11:56 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 15:11:56 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 15:11:57 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 15:11:57 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 15:12:02 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 15:12:02 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 15:13:03 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 15:44:49 INFO  Reflections:169 - Reflections took 3575 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 15:44:52 INFO  Reflections:169 - Reflections took 2248 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 15:45:07 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 15:45:07 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:45:07 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:45:08 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:45:08 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 15:45:08 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 15:45:10 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-26 15:45:10 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-26 15:45:10 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 15:45:12 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 15:48:56 INFO  Reflections:228 - Reflections took 3796 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 15:48:58 INFO  Reflections:228 - Reflections took 2128 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 15:49:08 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 15:49:09 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:49:09 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:49:09 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 15:49:09 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 15:49:09 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 15:49:11 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-26 15:49:12 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-26 15:49:12 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 15:49:13 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 16:03:44 INFO  Reflections:228 - Reflections took 3829 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 16:03:46 INFO  Reflections:228 - Reflections took 2324 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 16:04:04 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 16:04:04 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:04:04 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:04:05 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:04:05 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 16:04:05 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 16:04:07 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 16:04:07 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 16:04:08 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 16:04:08 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 16:04:08 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 16:04:09 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 16:04:09 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 16:04:09 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 16:04:09 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 16:04:09 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 16:04:09 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 16:04:09 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 16:04:09 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 16:04:10 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 16:04:10 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 16:04:15 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 16:04:15 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 16:05:16 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 16:12:33 INFO  Reflections:228 - Reflections took 4005 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 16:12:35 INFO  Reflections:228 - Reflections took 2294 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 16:12:51 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 16:12:59 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:12:59 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:13:00 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:13:00 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 16:13:00 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 16:13:02 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 16:13:02 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 16:13:03 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 16:13:03 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 16:13:03 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 16:13:03 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 16:13:03 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 16:13:04 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 16:13:04 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 16:13:04 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 16:13:04 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 16:13:04 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 16:13:04 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 16:13:05 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 16:13:05 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 16:13:10 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 16:13:10 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 16:13:10 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-26 16:15:45 INFO  Reflections:228 - Reflections took 3759 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-26 16:15:48 INFO  Reflections:228 - Reflections took 2361 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-26 16:15:58 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-26 16:15:58 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:15:59 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:15:59 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-26 16:15:59 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-26 16:15:59 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-26 16:16:01 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-26 16:16:02 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-26 16:16:02 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-26 16:16:03 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-26 16:16:03 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-26 16:16:03 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-26 16:16:03 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-26 16:16:03 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-26 16:16:03 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-26 16:16:03 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-26 16:16:03 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-26 16:16:04 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-26 16:16:04 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-26 16:16:04 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-26 16:16:04 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-26 16:16:09 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-26 16:16:09 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-26 16:16:09 INFO  StepImplement:72 - SaatGir elementi bulundu.
+2021-08-26 16:16:11 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:45:01 INFO  Reflections:228 - Reflections took 8922 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:45:06 INFO  Reflections:228 - Reflections took 5232 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:45:30 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:45:32 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:45:32 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:45:33 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:45:37 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:46:16 INFO  Reflections:228 - Reflections took 5194 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:46:21 INFO  Reflections:228 - Reflections took 5558 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:46:33 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:46:33 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:46:34 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:46:34 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:46:35 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:47:33 INFO  Reflections:169 - Reflections took 5452 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:47:38 INFO  Reflections:169 - Reflections took 4995 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:47:50 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:47:50 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:47:51 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:47:52 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:47:52 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-27 15:47:52 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-27 15:47:54 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-27 15:47:55 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-27 15:47:55 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-27 15:47:55 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-27 15:47:55 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-27 15:47:56 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-27 15:47:56 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-27 15:47:56 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-27 15:47:56 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-27 15:47:56 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-27 15:47:56 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-27 15:47:57 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-27 15:47:57 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-27 15:47:57 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-27 15:47:57 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-27 15:47:57 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-27 15:48:07 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:48:41 INFO  Reflections:228 - Reflections took 5395 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:48:46 INFO  Reflections:228 - Reflections took 5231 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:48:59 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:49:00 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:49:01 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:49:01 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:49:02 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-27 15:49:02 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-27 15:49:04 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-27 15:49:05 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-27 15:49:05 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-27 15:49:05 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-27 15:49:05 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-27 15:49:05 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-27 15:49:05 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-27 15:49:06 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-27 15:49:06 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-27 15:49:06 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-27 15:49:06 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-27 15:49:07 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-27 15:49:07 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-27 15:49:07 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-27 15:49:07 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-27 15:49:12 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-27 15:49:13 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-27 15:49:13 INFO  StepImplement:72 - SaatGir elementi bulundu.
+2021-08-27 15:49:17 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:51:18 INFO  Reflections:169 - Reflections took 5662 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:51:23 INFO  Reflections:169 - Reflections took 4925 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:51:35 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:51:36 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:51:36 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:51:37 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:51:37 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-27 15:51:37 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-27 15:51:39 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-27 15:51:40 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-27 15:51:40 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-27 15:51:41 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-27 15:51:41 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-27 15:51:41 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-27 15:51:41 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-27 15:51:42 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-27 15:51:42 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-27 15:51:42 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-27 15:51:42 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-27 15:51:42 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-27 15:51:43 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-27 15:51:43 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-27 15:51:43 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-27 15:51:48 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-27 15:51:48 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-27 15:52:49 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:53:49 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:54:50 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:55:50 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:56:50 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:57:51 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:58:31 INFO  Reflections:169 - Reflections took 13111 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-27 15:58:44 INFO  Reflections:169 - Reflections took 11884 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-27 15:58:51 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 15:59:13 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-27 15:59:15 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:59:16 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:59:16 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-27 15:59:23 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-27 15:59:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:00:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:01:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:02:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:03:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:04:52 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:05:53 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:06:53 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:07:53 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:08:54 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:09:54 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:10:54 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:11:54 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:12:55 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:13:55 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:14:55 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:15:55 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:16:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:17:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:18:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:19:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:20:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:21:56 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:22:57 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:23:57 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:24:58 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:25:58 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:26:59 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:27:59 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:29:00 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:30:00 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:31:00 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:32:01 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:33:02 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:34:02 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:35:02 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:36:02 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:37:03 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:38:03 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:39:04 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:40:04 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:41:04 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:42:05 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:43:05 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:44:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:45:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:46:06 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:47:07 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:48:07 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:49:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:50:08 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:51:09 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:52:09 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:53:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:54:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:55:10 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:56:11 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:57:11 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:58:12 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 16:59:12 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:00:12 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:01:13 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:02:13 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:03:14 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:04:14 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:05:15 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:06:15 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:07:16 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:08:16 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:09:17 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:10:17 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:11:17 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:12:18 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:13:18 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:14:18 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:15:19 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:16:19 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:17:19 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:18:20 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:19:20 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:20:20 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:21:21 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:22:21 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:23:22 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:24:22 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:25:22 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:26:22 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:27:22 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:28:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:29:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:30:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:31:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:32:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:33:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:34:23 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:35:24 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:36:24 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:37:25 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:38:25 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:39:25 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:40:26 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:41:26 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:42:27 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:43:27 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:44:28 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:45:28 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:46:28 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:47:29 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:48:29 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:49:30 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:50:30 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:51:30 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:52:31 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:53:31 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:54:31 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:55:32 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:56:32 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:57:33 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:58:33 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 17:59:33 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:00:34 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:01:34 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:02:34 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:03:35 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:04:35 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:05:36 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:06:36 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:07:36 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:08:37 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:09:37 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:10:38 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:11:38 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:12:38 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:13:39 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:14:39 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:15:39 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:16:40 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:17:40 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:18:40 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:19:40 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:20:41 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:21:41 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:22:42 INFO  StepImplement:128 - 100 milisaniye bekleniyor.
+2021-08-27 18:22:53 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:11:35 INFO  Reflections:228 - Reflections took 22260 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:12:23 INFO  Reflections:228 - Reflections took 4136 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:12:26 INFO  Reflections:228 - Reflections took 3088 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:12:56 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:12:58 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:12:59 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:13:14 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:13:19 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:13:51 INFO  Reflections:228 - Reflections took 4329 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:13:53 INFO  Reflections:228 - Reflections took 2589 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:14:07 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:14:07 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:14:07 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:14:08 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:14:09 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:14:48 INFO  Reflections:228 - Reflections took 3810 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:14:50 INFO  Reflections:228 - Reflections took 2317 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:15:07 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:15:07 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:15:08 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:15:09 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:15:09 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:15:09 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:15:11 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-28 13:15:11 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-28 13:15:11 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:15:11 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:15:11 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:15:12 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:15:12 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:15:12 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:15:12 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:15:12 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:15:12 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:15:13 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:15:13 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:15:13 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:15:13 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-28 13:15:13 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-28 13:15:23 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:16:03 INFO  Reflections:228 - Reflections took 3779 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:16:06 INFO  Reflections:228 - Reflections took 2286 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:16:21 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:16:21 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:16:22 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:16:23 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:16:23 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:16:23 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:16:25 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:16:26 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:16:26 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:16:27 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:16:27 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:16:27 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:16:27 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:16:27 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:16:27 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:16:27 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:16:28 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:16:28 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:16:28 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:16:28 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:16:28 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:16:33 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:16:33 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:16:35 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:19:24 INFO  Reflections:228 - Reflections took 3749 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:19:26 INFO  Reflections:228 - Reflections took 2380 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:19:43 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:19:43 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:19:44 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:19:44 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:19:44 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:19:44 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:19:46 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:19:47 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:19:47 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:19:47 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:19:48 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:19:48 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:19:48 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:19:48 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:19:48 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:19:48 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:19:48 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:19:49 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:19:49 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:19:49 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:19:49 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:19:54 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:19:54 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:19:56 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:25:30 INFO  Reflections:228 - Reflections took 3852 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:25:32 INFO  Reflections:228 - Reflections took 2410 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:25:45 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:25:45 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:25:45 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:25:46 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:25:46 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:25:46 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:25:48 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:25:48 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:25:49 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:25:49 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:25:49 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:25:49 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:25:49 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:25:50 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:25:50 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:25:50 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:25:50 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:25:50 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:25:50 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:25:50 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:25:51 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:25:56 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:25:56 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:25:57 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:29:05 INFO  Reflections:228 - Reflections took 3686 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:29:08 INFO  Reflections:228 - Reflections took 2307 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:29:22 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:29:23 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:29:23 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:29:24 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:29:24 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:29:24 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:29:26 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:29:26 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:29:27 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:29:27 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:29:27 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:29:27 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:29:27 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:29:27 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:29:28 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:29:28 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:29:28 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:29:28 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:29:28 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:29:28 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:29:28 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:29:33 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:29:34 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:29:34 INFO  StepImplement:147 - SaatGir elementine tiklandi.
+2021-08-28 13:30:50 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:36:44 INFO  Reflections:228 - Reflections took 3980 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:36:47 INFO  Reflections:228 - Reflections took 2496 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:37:08 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:37:08 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:37:09 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:37:09 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:37:09 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:37:09 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:37:11 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:37:11 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:37:12 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:37:12 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:37:12 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:37:13 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:37:13 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:37:13 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:37:13 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:37:13 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:37:13 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:37:13 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:37:13 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:37:14 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:37:14 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:37:19 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:37:19 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:37:19 INFO  StepImplement:147 - SaatGir elementine tiklandi.
+2021-08-28 13:37:49 INFO  StepImplement:165 - SaatGir elementine 09 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:38:55 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 13:58:15 INFO  Reflections:228 - Reflections took 3746 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 13:58:18 INFO  Reflections:228 - Reflections took 2230 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 13:58:30 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 13:58:30 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:58:30 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:58:31 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 13:58:31 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 13:58:31 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 13:58:33 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 13:58:33 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 13:58:34 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 13:58:34 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 13:58:34 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 13:58:34 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 13:58:34 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 13:58:35 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 13:58:35 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 13:58:35 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 13:58:35 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 13:58:35 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 13:58:35 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 13:58:35 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 13:58:35 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 13:58:41 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 13:58:41 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 13:58:41 INFO  StepImplement:156 - SaatGir elementine tiklandi.
+2021-08-28 13:59:42 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 14:02:26 INFO  Reflections:228 - Reflections took 3529 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 14:02:29 INFO  Reflections:228 - Reflections took 2213 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 14:02:38 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 14:02:39 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:02:39 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:02:39 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:02:40 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 14:02:40 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 14:02:42 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 14:02:42 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 14:02:43 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 14:02:43 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 14:02:43 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 14:02:43 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 14:02:43 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 14:02:43 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 14:02:43 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 14:02:44 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 14:02:44 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 14:02:44 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 14:02:44 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 14:02:44 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 14:02:44 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 14:02:49 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 14:02:50 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 14:02:50 INFO  StepImplement:156 - SaatGir elementine tiklandi.
+2021-08-28 14:03:51 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 14:05:04 INFO  Reflections:228 - Reflections took 3638 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 14:05:06 INFO  Reflections:228 - Reflections took 2216 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 14:05:16 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 14:05:16 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:05:16 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:05:16 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:05:17 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 14:05:17 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 14:05:19 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 14:05:19 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 14:05:20 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 14:05:20 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 14:05:20 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 14:05:20 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 14:05:20 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 14:05:20 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 14:05:20 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 14:05:21 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 14:05:21 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 14:05:21 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 14:05:21 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 14:05:21 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 14:05:21 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 14:05:26 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 14:05:27 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 14:05:27 INFO  StepImplement:156 - SaatGir elementine tiklandi.
+2021-08-28 14:06:28 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 14:07:38 INFO  Reflections:228 - Reflections took 3653 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 14:07:41 INFO  Reflections:228 - Reflections took 2220 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 14:07:50 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 14:07:51 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:07:51 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:07:51 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:07:51 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 14:07:51 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 14:07:53 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-28 14:07:54 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-28 14:07:54 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 14:07:54 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 14:07:54 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 14:07:55 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 14:07:55 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 14:07:55 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 14:07:55 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 14:07:55 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 14:07:55 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 14:07:56 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 14:07:56 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 14:07:56 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 14:07:56 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-28 14:08:01 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-28 14:08:01 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-28 14:08:01 INFO  StepImplement:156 - SaatGir elementine tiklandi.
+2021-08-28 14:08:01 INFO  StepImplement:165 - SaatGir elementine 09 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:08:01 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 14:08:04 INFO  StepImplement:156 - DakikaGir elementine tiklandi.
+2021-08-28 14:08:04 INFO  StepImplement:165 - DakikaGir elementine 10 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:08:04 INFO  StepImplement:147 - indir elementine tiklandi.
+2021-08-28 14:08:04 INFO  StepImplement:118 - 20 saniye bekleniyor.
+2021-08-28 14:08:24 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-28 14:08:38 INFO  Reflections:228 - Reflections took 3593 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-28 14:08:40 INFO  Reflections:228 - Reflections took 2179 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-28 14:08:53 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-28 14:08:54 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:08:54 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:08:54 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-28 14:08:54 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-28 14:08:54 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-28 14:08:56 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-28 14:08:56 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-28 14:08:57 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-28 14:08:57 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-28 14:08:57 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-28 14:08:58 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-28 14:08:58 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-28 14:08:58 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-28 14:08:58 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-28 14:08:58 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-28 14:08:58 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-28 14:08:58 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-28 14:08:58 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-28 14:08:59 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-28 14:08:59 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-28 14:08:59 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-28 14:09:09 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-31 00:13:11 INFO  Reflections:169 - Reflections took 9339 ms to scan 79 urls, producing 9852 keys and 52383 values 
+2021-08-31 00:13:14 INFO  Reflections:169 - Reflections took 3055 ms to scan 79 urls, producing 9778 keys and 45328 values 
+2021-08-31 00:13:44 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-31 00:13:45 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:13:45 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:13:46 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:13:46 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-31 00:13:46 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-31 00:13:48 INFO  StepImplement:72 - CanliYayin elementi bulundu.
+2021-08-31 00:13:48 INFO  StepImplement:147 - CanliYayin elementine tiklandi.
+2021-08-31 00:13:48 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-31 00:13:48 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-31 00:13:49 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-31 00:13:49 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-31 00:13:49 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-31 00:13:49 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-31 00:13:49 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-31 00:13:49 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-31 00:13:49 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-31 00:13:50 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-31 00:13:50 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-31 00:13:50 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-31 00:13:50 INFO  StepImplement:156 - canliyayin elementine tiklandi.
+2021-08-31 00:13:50 INFO  StepImplement:118 - 10 saniye bekleniyor.
+2021-08-31 00:14:00 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-08-31 00:14:14 INFO  BaseTest:31 - https://dev.pixselect.com.tr:1632/ BROWSERDA ACILDI.
+2021-08-31 00:14:14 INFO  StepImplement:165 - KurumsalId elementine 2020 texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:14:14 INFO  StepImplement:165 - KullaniciAdi elementine pixselect texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:14:15 INFO  StepImplement:165 - Parola elementine _p1xs3l3ct texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:14:15 INFO  StepImplement:147 - GirisYap elementine tiklandi.
+2021-08-31 00:14:15 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-31 00:14:17 INFO  StepImplement:72 - kayitizle elementi bulundu.
+2021-08-31 00:14:17 INFO  StepImplement:147 - kayitizle elementine tiklandi.
+2021-08-31 00:14:18 INFO  StepImplement:72 - Atm elementi bulundu.
+2021-08-31 00:14:18 INFO  StepImplement:147 - Atm elementine tiklandi.
+2021-08-31 00:14:18 INFO  StepImplement:72 - istanbul elementi bulundu.
+2021-08-31 00:14:18 INFO  StepImplement:147 - istanbul elementine tiklandi.
+2021-08-31 00:14:18 INFO  StepImplement:72 - kat1 elementi bulundu.
+2021-08-31 00:14:19 INFO  StepImplement:147 - kat1 elementine tiklandi.
+2021-08-31 00:14:19 INFO  StepImplement:72 - pixselect elementi bulundu.
+2021-08-31 00:14:19 INFO  StepImplement:147 - pixselect elementine tiklandi.
+2021-08-31 00:14:19 INFO  StepImplement:72 - pix8 elementi bulundu.
+2021-08-31 00:14:19 INFO  StepImplement:147 - pix8 elementine tiklandi.
+2021-08-31 00:14:19 INFO  StepImplement:72 - analog elementi bulundu.
+2021-08-31 00:14:20 INFO  StepImplement:147 - analog elementine tiklandi.
+2021-08-31 00:14:20 INFO  StepImplement:118 - 5 saniye bekleniyor.
+2021-08-31 00:14:25 INFO  StepImplement:72 - kayitindir elementi bulundu.
+2021-08-31 00:14:25 INFO  StepImplement:147 - kayitindir elementine tiklandi.
+2021-08-31 00:14:25 INFO  StepImplement:156 - SaatGir elementine tiklandi.
+2021-08-31 00:14:25 INFO  StepImplement:165 - SaatGir elementine 09 texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:14:25 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-08-31 00:14:28 INFO  StepImplement:156 - DakikaGir elementine tiklandi.
+2021-08-31 00:14:28 INFO  StepImplement:165 - DakikaGir elementine 10 texti yazildi ve enter tuşuna basildi.
+2021-08-31 00:14:28 INFO  StepImplement:147 - indir elementine tiklandi.
+2021-08-31 00:14:28 INFO  StepImplement:118 - 20 saniye bekleniyor.
+2021-08-31 00:14:48 INFO  BaseTest:37 - TEST TAMAMLANDI DRIVER KAPATILIYOR..

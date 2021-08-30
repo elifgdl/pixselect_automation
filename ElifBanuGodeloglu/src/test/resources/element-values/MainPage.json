@@ -1,0 +1,88 @@
+[
+  {
+    "key": "KurumsalId",
+    "value": "input-11",
+    "type": "id"
+  },
+  {
+    "key": "KullaniciAdi",
+    "value": "input-14",
+    "type": "id"
+  },
+  {
+    "key": "Parola",
+    "value": "input-17",
+    "type": "id"
+  },
+  {
+    "key": "GirisYap",
+    "value": "//button[@class='v-btn v-btn--is-elevated v-btn--has-bg v-btn--rounded theme--dark v-size--default']",
+    "type": "xpath"
+  },
+  {
+    "key": "CanliYayin",
+    "value": "//div[@class='v-list-item__action']/i[@class='fas fa-tv']",
+    "type": "xpath"
+  },
+  {
+    "key": "Atm",
+    "value": "//div[@class='v-treeview-node__label']//p[text()='ATM DVR/NVR']",
+    "type": "xpath"
+  },
+  {
+    "key": "istanbul",
+    "value": "//div[@class='v-treeview-node__label']//p[text()='İstanbul']",
+    "type": "xpath"
+  },
+  {
+    "key": "kat1",
+    "value": "//div[@class='v-treeview-node__label']//p[text()='kat 1']",
+    "type": "xpath"
+  },
+  {
+    "key": "pixselect",
+    "value": "//div[@class='v-treeview-node__label']//p[text()='pixselect']",
+    "type": "xpath"
+  },
+  {
+  "key": "pix8",
+  "value": "//div[@class='v-treeview-node__label']//p[text()='pix8']",
+  "type": "xpath"
+  },
+  {
+    "key": "analog",
+    "value": "//*[@id=\"app\"]/div[1]/div[1]/main/div/div/div[1]/div/div[1]/div/div[2]/div/div[3]/div/div[1]/div[1]/div[2]/div/div[2]/div/div[2]/div/div[2]/div[4]/div[2]/div[1]/div/div[7]/div[1]/a/button",
+    "type": "xpath"
+  },
+  {
+    "key": "canliyayin",
+    "value": "//*[@id=\"video1\"]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "kayitizle",
+    "value": "//div[@class='v-list-item__action']/i[@class='fas fa-video']",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitindir",
+    "value": "//button[@class='v-btn v-btn--fab v-btn--outlined v-btn--round theme--dark v-size--x-small success--text']",
+    "type": "xpath"
+  },
+  {
+    "key": "SaatGir",
+    "value": ".v-card__text [class='v-input pt-0 v-input--dense theme--dark v-text-field v-text-field--is-booted']:nth-of-type(1) [type]",
+    "type": "css"
+  },
+  {
+    "key": "DakikaGir",
+    "value": ".v-card__text [class='v-input pt-0 v-input--dense theme--dark v-text-field v-text-field--is-booted']:nth-child(3) [type]",
+    "type": "css"
+  },
+  {
+    "key": "indir",
+    "value": "//button[@class='v-btn v-btn--text theme--dark v-size--default blue--text text--darken-1']",
+    "type": "xpath"
+  }
+]

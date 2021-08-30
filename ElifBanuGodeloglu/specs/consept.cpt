@@ -1,0 +1,50 @@
+Created by Elif on 25.08.2021
+
+This is a concept file with following syntax for each concept.
+# Browserda Pixselect Sayfası ve acılır ve login olunur
+* "2020" textini "KurumsalId" elemente yaz
+* "pixselect" textini "KullaniciAdi" elemente yaz
+* "_p1xs3l3ct" textini "Parola" elemente yaz
+* Elementine tıkla "GirisYap"
+
+# Canlı yayın izle butonu tıklanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "CanliYayin"
+
+# Canlı yayın sayfasına gidilir ve kayıt izlenir
+* Elementi bekle ve sonra tıkla "Atm"
+* Elementi bekle ve sonra tıkla "istanbul"
+* Elementi bekle ve sonra tıkla "kat1"
+* Elementi bekle ve sonra tıkla "pixselect"
+* Elementi bekle ve sonra tıkla "pix8"
+* Elementi bekle ve sonra tıkla "analog"
+* Elementine cift tıkla "canliyayin"
+* "10" saniye bekle
+
+
+# Kayıt izle butonu tıklanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kayitizle"
+
+# Kayıt izle sayfasına gidilir ve kayıt izlenir
+* Elementi bekle ve sonra tıkla "Atm"
+* Elementi bekle ve sonra tıkla "istanbul"
+* Elementi bekle ve sonra tıkla "kat1"
+* Elementi bekle ve sonra tıkla "pixselect"
+* Elementi bekle ve sonra tıkla "pix8"
+* Elementi bekle ve sonra tıkla "analog"
+* "5" saniye bekle
+
+# Kayıt indirilir
+* Elementi bekle ve sonra tıkla "kayitindir"
+/* Elementi bekle ve sonra tıkla "SaatGir"
+/* Elementine tıkla "SaatGir"
+* Elementine cift tıkla "SaatGir"
+* "09" textini "SaatGir" elemente yaz
+* "2" saniye bekle
+* Elementine cift tıkla "DakikaGir"
+* "10" textini "DakikaGir" elemente yaz
+* Elementine tıkla "indir"
+* "20" saniye bekle
+
+
